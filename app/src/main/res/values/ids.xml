@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <!-- app_id -->
+    <string name="app_id" translatable="false">232303441368</string>
+    <!-- package_name -->
+    <string name="package_name" translatable="false">com.NoobGames.sssssssssssnake</string>
+    <!-- achievement Apple Eater 1 -->
+    <string name="achievement_apple_eater_1" translatable="false">CgkI2Ov0suEGEAIQAg</string>
+    <!-- achievement Apple Eater 2 -->
+    <string name="achievement_apple_eater_2" translatable="false">CgkI2Ov0suEGEAIQAw</string>
+    <!-- achievement Apple Eater 3 -->
+    <string name="achievement_apple_eater_3" translatable="false">CgkI2Ov0suEGEAIQBA</string>
+    <!-- achievement Apple Eater 4 -->
+    <string name="achievement_apple_eater_4" translatable="false">CgkI2Ov0suEGEAIQBQ</string>
+    <!-- achievement Apple Eater 5 -->
+    <string name="achievement_apple_eater_5" translatable="false">CgkI2Ov0suEGEAIQBg</string>
+    <!-- achievement Super Snake 1 -->
+    <string name="achievement_super_snake_1" translatable="false">CgkI2Ov0suEGEAIQBw</string>
+    <!-- achievement Super Snake 2 -->
+    <string name="achievement_super_snake_2" translatable="false">CgkI2Ov0suEGEAIQCA</string>
+    <!-- achievement Super Snake 3 -->
+    <string name="achievement_super_snake_3" translatable="false">CgkI2Ov0suEGEAIQCQ</string>
+    <!-- achievement Super Snake 4 -->
+    <string name="achievement_super_snake_4" translatable="false">CgkI2Ov0suEGEAIQCg</string>
+    <!-- achievement Super Sayan Snake -->
+    <string name="achievement_super_sayan_snake" translatable="false">CgkI2Ov0suEGEAIQCw</string>
+    <!-- leaderboard Ssssssssssnake -->
+    <string name="leaderboard_ssssssssssnake" translatable="false">CgkI2Ov0suEGEAIQAQ</string>
+</resources>
